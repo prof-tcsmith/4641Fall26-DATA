@@ -1,0 +1,13 @@
+store_id,store_name,region,size_sqft,opened_year
+1,Downtown Tampa,Tampa Bay,45000,2015
+2,Brandon,Tampa Bay,38000,2017
+3,Clearwater,Tampa Bay,42000,2016
+4,St. Petersburg,Tampa Bay,40000,2018
+5,Wesley Chapel,North,52000,2022
+6,Lakeland,North,35000,2019
+7,Sarasota,South,48000,2020
+8,Bradenton,South,36000,2021
+9,Temple Terrace,Tampa Bay,32000,2018
+10,Plant City,North,28000,2020
+11,Riverview,Tampa Bay,44000,2021
+12,Palm Harbor,Tampa Bay,39000,2019
