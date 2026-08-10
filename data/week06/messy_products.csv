@@ -1,0 +1,23 @@
+sku,product_name,category,price,stock
+GL-1001,Organic Bananas,produce,$0.79,208
+GL-1002,Roma Tomatoes,produce,$1.49,32
+GL-1003,Baby Spinach,Produce,$3.99,225
+GL-1004,Avocados,PRODUCE,$1.25,118
+GL-2001,Whole Milk 1gal,Dairy,$4.29,153
+GL-2002,Greek Yogurt,Dairy,$5.49,97
+GL-2003,Cheddar Block,DAIRY,$6.99,161
+GL-2004,Butter Unsalted,dairy,$5.79,203
+GL-3001,Sourdough Loaf,BAKERY,$4.99,227
+GL-3002,Croissants 4pk,Bakery,$6.49,92
+GL-3003,Bagels 6pk,Bakery,$4.79,227
+GL-4001,Ground Beef 1lb,meat,$7.99,75
+GL-4002,Chicken Breast,meat,$9.49,0
+GL-4003,Gulf Shrimp 1lb,Meat,$12.99,205
+GL-5001,Espresso Machine,Home,"$1,299.00",9
+GL-5002,Stand Mixer,Home,$449.99,1
+GL-5003,Chef Knife 8in,HOME,$89.99,232
+GL-5004, Cast Iron Skillet ,Home,$34.99,8
+GL-6001,Cold Brew 32oz,Beverages,$5.99,98
+GL-6002,Sparkling Water 12pk,BEVERAGES,$6.49,232
+GL-6003,Orange Juice 52oz,Beverages,$4.99,85
+GL-6004,Craft Soda 4pk,beverages,$7.29,134

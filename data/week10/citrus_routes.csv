@@ -1,0 +1,181 @@
+route_id,destination_area,distance_miles,delivery_cost
+CL-0001,Brandon,13.4,54.07
+CL-0002,Clearwater,21.0,75.44
+CL-0003,Brandon,11.2,53.95
+CL-0004,Ybor City,4.7,32.92
+CL-0005,St. Pete Beach,23.0,87.55
+CL-0006,Wesley Chapel,17.3,56.21
+CL-0007,Clearwater,20.4,77.93
+CL-0008,Brandon,9.1,40.05
+CL-0009,Temple Terrace,6.4,39.75
+CL-0010,Temple Terrace,9.5,43.97
+CL-0011,Ybor City,5.6,30.41
+CL-0012,Lakeland,31.5,87.51
+CL-0013,Brandon,12.3,40.98
+CL-0014,St. Pete Beach,23.4,70.56
+CL-0015,Temple Terrace,6.0,30.59
+CL-0016,St. Pete Beach,24.5,76.8
+CL-0017,Brandon,14.9,57.36
+CL-0018,Brandon,8.6,32.5
+CL-0019,Temple Terrace,7.3,36.04
+CL-0020,Brandon,8.5,51.32
+CL-0021,Wesley Chapel,20.9,62.39
+CL-0022,Lakeland,41.9,94.76
+CL-0023,St. Pete Beach,27.3,89.46
+CL-0024,Brandon,11.4,56.27
+CL-0025,Wesley Chapel,19.2,67.06
+CL-0026,Temple Terrace,10.0,46.09
+CL-0027,Clearwater,21.6,80.33
+CL-0028,Wesley Chapel,16.1,66.88
+CL-0029,Lakeland,44.5,106.11
+CL-0030,Wesley Chapel,20.8,61.94
+CL-0031,Wesley Chapel,17.9,65.72
+CL-0032,Lakeland,40.8,90.07
+CL-0033,Lakeland,40.1,99.57
+CL-0034,Brandon,12.5,48.11
+CL-0035,Temple Terrace,8.0,41.33
+CL-0036,Clearwater,23.6,69.11
+CL-0037,Brandon,10.4,40.97
+CL-0038,Lakeland,42.1,99.34
+CL-0039,St. Pete Beach,28.1,77.2
+CL-0040,Wesley Chapel,17.3,59.62
+CL-0041,Ybor City,5.9,31.14
+CL-0042,Temple Terrace,9.0,43.0
+CL-0043,Wesley Chapel,19.0,59.74
+CL-0044,Lakeland,42.4,104.41
+CL-0045,Lakeland,43.0,109.78
+CL-0046,Lakeland,40.6,94.67
+CL-0047,St. Pete Beach,32.9,106.37
+CL-0048,Clearwater,21.5,71.14
+CL-0049,Temple Terrace,10.0,50.61
+CL-0050,Lakeland,31.5,85.05
+CL-0051,Brandon,9.7,38.78
+CL-0052,Wesley Chapel,15.4,58.16
+CL-0053,Temple Terrace,7.1,35.47
+CL-0054,Brandon,9.3,48.94
+CL-0055,Wesley Chapel,14.5,63.26
+CL-0056,Brandon,14.4,57.83
+CL-0057,Temple Terrace,5.8,36.58
+CL-0058,Lakeland,39.2,100.23
+CL-0059,Temple Terrace,10.2,45.37
+CL-0060,Clearwater,21.2,76.19
+CL-0061,Brandon,11.9,39.58
+CL-0062,Clearwater,23.0,84.55
+CL-0063,Temple Terrace,5.4,35.06
+CL-0064,Wesley Chapel,22.1,61.9
+CL-0065,St. Pete Beach,31.3,95.13
+CL-0066,Lakeland,39.6,95.66
+CL-0067,Ybor City,5.2,43.12
+CL-0068,Brandon,11.9,49.42
+CL-0069,Ybor City,3.6,36.94
+CL-0070,Wesley Chapel,15.3,54.96
+CL-0071,Ybor City,4.8,37.7
+CL-0072,St. Pete Beach,29.1,82.74
+CL-0073,St. Pete Beach,24.1,73.29
+CL-0074,St. Pete Beach,30.9,90.58
+CL-0075,Wesley Chapel,15.7,56.4
+CL-0076,Ybor City,4.8,35.94
+CL-0077,Lakeland,34.2,91.74
+CL-0078,Brandon,10.2,40.65
+CL-0079,Ybor City,3.5,43.23
+CL-0080,Lakeland,31.6,81.58
+CL-0081,Lakeland,42.7,98.23
+CL-0082,Lakeland,33.8,84.76
+CL-0083,Lakeland,42.2,106.5
+CL-0084,Wesley Chapel,17.5,54.57
+CL-0085,Brandon,9.9,44.72
+CL-0086,St. Pete Beach,24.6,79.22
+CL-0087,Ybor City,5.6,41.01
+CL-0088,St. Pete Beach,33.6,95.94
+CL-0089,Temple Terrace,5.9,33.57
+CL-0090,Ybor City,2.7,25.7
+CL-0091,Wesley Chapel,17.5,46.39
+CL-0092,Lakeland,31.8,74.27
+CL-0093,St. Pete Beach,33.0,92.87
+CL-0094,St. Pete Beach,28.4,78.87
+CL-0095,St. Pete Beach,27.3,80.6
+CL-0096,Clearwater,18.7,77.23
+CL-0097,Wesley Chapel,20.8,54.05
+CL-0098,Temple Terrace,5.9,37.51
+CL-0099,Clearwater,26.1,84.9
+CL-0100,Ybor City,5.7,40.03
+CL-0101,Ybor City,4.5,32.88
+CL-0102,Lakeland,44.8,103.98
+CL-0103,Brandon,8.8,61.41
+CL-0104,Temple Terrace,6.9,36.78
+CL-0105,Lakeland,42.0,103.44
+CL-0106,St. Pete Beach,24.9,76.43
+CL-0107,St. Pete Beach,22.4,70.05
+CL-0108,Lakeland,35.7,89.92
+CL-0109,Clearwater,24.3,79.23
+CL-0110,Ybor City,4.5,36.48
+CL-0111,Ybor City,4.6,31.86
+CL-0112,Brandon,13.1,47.5
+CL-0113,Wesley Chapel,16.0,51.09
+CL-0114,Wesley Chapel,18.6,57.37
+CL-0115,Temple Terrace,10.5,44.53
+CL-0116,St. Pete Beach,28.5,75.18
+CL-0117,Clearwater,26.4,91.65
+CL-0118,St. Pete Beach,30.4,88.18
+CL-0119,Brandon,13.2,47.57
+CL-0120,Clearwater,21.2,68.59
+CL-0121,Clearwater,26.4,90.52
+CL-0122,Clearwater,25.4,77.1
+CL-0123,St. Pete Beach,30.1,88.77
+CL-0124,Lakeland,43.3,102.51
+CL-0125,Ybor City,3.8,40.32
+CL-0126,Brandon,9.4,50.85
+CL-0127,Brandon,12.8,43.47
+CL-0128,Clearwater,24.9,80.18
+CL-0129,Ybor City,2.7,41.32
+CL-0130,Temple Terrace,7.1,31.65
+CL-0131,Brandon,14.1,57.94
+CL-0132,Temple Terrace,5.6,28.72
+CL-0133,Brandon,12.1,43.14
+CL-0134,Wesley Chapel,19.3,63.07
+CL-0135,Ybor City,5.5,35.48
+CL-0136,St. Pete Beach,33.7,97.75
+CL-0137,Clearwater,20.3,75.21
+CL-0138,Temple Terrace,10.5,46.98
+CL-0139,Temple Terrace,9.4,33.35
+CL-0140,Lakeland,33.0,83.36
+CL-0141,Lakeland,32.0,85.77
+CL-0142,Wesley Chapel,17.9,59.27
+CL-0143,Lakeland,47.7,122.56
+CL-0144,St. Pete Beach,33.4,95.21
+CL-0145,Ybor City,3.8,30.46
+CL-0146,Wesley Chapel,15.8,54.42
+CL-0147,Clearwater,19.8,77.19
+CL-0148,Temple Terrace,10.4,42.52
+CL-0149,Brandon,13.5,48.56
+CL-0150,Clearwater,26.7,78.21
+CL-0151,Brandon,9.9,46.3
+CL-0152,Brandon,12.2,45.49
+CL-0153,Clearwater,25.8,83.85
+CL-0154,Clearwater,27.4,78.45
+CL-0155,Clearwater,21.0,71.32
+CL-0156,Brandon,8.3,31.48
+CL-0157,Wesley Chapel,20.9,64.72
+CL-0158,St. Pete Beach,31.5,79.65
+CL-0159,Ybor City,4.8,35.18
+CL-0160,Ybor City,5.1,46.7
+CL-0161,Brandon,14.3,55.33
+CL-0162,Lakeland,45.3,99.65
+CL-0163,Ybor City,4.9,20.77
+CL-0164,Temple Terrace,6.5,46.44
+CL-0165,Brandon,14.4,63.09
+CL-0166,Wesley Chapel,16.5,49.87
+CL-0167,Lakeland,38.0,109.89
+CL-0168,Lakeland,35.3,89.07
+CL-0169,Lakeland,31.0,90.0
+CL-0170,Wesley Chapel,16.3,58.1
+CL-0171,Lakeland,38.0,90.21
+CL-0172,Wesley Chapel,20.9,71.68
+CL-0173,Clearwater,27.8,80.82
+CL-0174,Lakeland,37.6,92.15
+CL-0175,Clearwater,21.7,67.9
+CL-0176,Ybor City,4.4,34.45
+CL-0177,Brandon,10.2,43.57
+CL-0178,Brandon,9.3,48.45
+CL-0179,Ybor City,5.6,37.29
+CL-0180,Temple Terrace,8.2,34.05

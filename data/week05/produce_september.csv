@@ -1,0 +1,208 @@
+store,product,vendor,promo,unit_price,units_delivered,units_sold
+Downtown Tampa,Organic Strawberries,Suwannee Organics,No,4.99,667,596
+Downtown Tampa,Organic Bananas,Suwannee Organics,Yes,0.79,1656,1639
+Downtown Tampa,Organic Baby Spinach,Suwannee Organics,No,3.99,570,531
+Downtown Tampa,Organic Avocados,Suwannee Organics,No,1.89,898,806
+Downtown Tampa,Organic Papayas,Suwannee Organics,No,3.49,162,116
+Downtown Tampa,Organic Blueberries,Suwannee Organics,No,5.49,451,414
+Downtown Tampa,Roma Tomatoes,Gulf Coast Produce,No,1.49,1196,1113
+Downtown Tampa,Sweet Corn,Gulf Coast Produce,Yes,0.65,724,696
+Downtown Tampa,Green Bell Peppers,Gulf Coast Produce,No,0.99,541,520
+Downtown Tampa,Cucumbers,Gulf Coast Produce,No,0.79,1016,967
+Downtown Tampa,Red Grapes,Gulf Coast Produce,Yes,2.99,629,576
+Downtown Tampa,Vine Tomatoes,Ruskin Farms Direct,No,2.29,586,559
+Downtown Tampa,Yellow Onions,Ruskin Farms Direct,No,0.89,847,786
+Downtown Tampa,Russet Potatoes,Ruskin Farms Direct,Yes,0.75,1242,1201
+Downtown Tampa,Romaine Hearts,Ruskin Farms Direct,No,2.49,459,443
+Downtown Tampa,Navel Oranges,Fresh Ridge Citrus,Yes,1.19,760,752
+Downtown Tampa,Ruby Red Grapefruit,Fresh Ridge Citrus,No,1.39,379,357
+Downtown Tampa,Organic Meyer Lemons,Fresh Ridge Citrus,No,2.79,212,200
+Brandon,Organic Strawberries,Suwannee Organics,No,4.99,631,565
+Brandon,Organic Bananas,Suwannee Organics,Yes,0.79,1536,1521
+Brandon,Organic Baby Spinach,Suwannee Organics,No,3.99,496,459
+Brandon,Organic Avocados,Suwannee Organics,No,1.89,736,692
+Brandon,Organic Papayas,Suwannee Organics,No,3.49,105,81
+Brandon,Organic Blueberries,Suwannee Organics,No,5.49,394,354
+Brandon,Roma Tomatoes,Gulf Coast Produce,No,1.49,879,829
+Brandon,Sweet Corn,Gulf Coast Produce,Yes,0.65,847,809
+Brandon,Green Bell Peppers,Gulf Coast Produce,No,0.99,555,530
+Brandon,Cucumbers,Gulf Coast Produce,No,0.79,575,536
+Brandon,Red Grapes,Gulf Coast Produce,Yes,2.99,499,476
+Brandon,Vine Tomatoes,Ruskin Farms Direct,No,2.29,513,491
+Brandon,Yellow Onions,Ruskin Farms Direct,No,0.89,975,949
+Brandon,Russet Potatoes,Ruskin Farms Direct,Yes,0.75,1176,1157
+Brandon,Romaine Hearts,Ruskin Farms Direct,No,2.49,413,374
+Brandon,Navel Oranges,Fresh Ridge Citrus,Yes,1.19,804,796
+Brandon,Ruby Red Grapefruit,Fresh Ridge Citrus,No,1.39,389,363
+Brandon,Organic Meyer Lemons,Fresh Ridge Citrus,No,2.79,171,168
+Clearwater,Organic Strawberries,Suwannee Organics,No,4.99,970,763
+Clearwater,Organic Bananas,Suwannee Organics,Yes,0.79,1290,1217
+Clearwater,Organic Baby Spinach,Suwannee Organics,No,3.99,626,575
+Clearwater,Organic Avocados,Suwannee Organics,No,1.89,719,645
+Clearwater,Organic Papayas,Suwannee Organics,No,3.49,142,107
+Clearwater,Organic Blueberries,Suwannee Organics,No,5.49,515,458
+Clearwater,Roma Tomatoes,Gulf Coast Produce,No,1.49,1086,996
+Clearwater,Sweet Corn,Gulf Coast Produce,Yes,0.65,748,709
+Clearwater,Green Bell Peppers,Gulf Coast Produce,No,0.99,695,656
+Clearwater,Cucumbers,Gulf Coast Produce,No,0.79,710,653
+Clearwater,Red Grapes,Gulf Coast Produce,Yes,2.99,565,545
+Clearwater,Vine Tomatoes,Ruskin Farms Direct,No,2.29,580,549
+Clearwater,Yellow Onions,Ruskin Farms Direct,No,0.89,1031,961
+Clearwater,Russet Potatoes,Ruskin Farms Direct,Yes,0.75,1196,1184
+Clearwater,Romaine Hearts,Ruskin Farms Direct,No,2.49,517,490
+Clearwater,Navel Oranges,Fresh Ridge Citrus,Yes,1.19,613,595
+Clearwater,Ruby Red Grapefruit,Fresh Ridge Citrus,No,1.39,453,428
+Clearwater,Organic Meyer Lemons,Fresh Ridge Citrus,No,2.79,185,168
+St. Petersburg,Organic Strawberries,Suwannee Organics,No,4.99,678,624
+St. Petersburg,Organic Bananas,Suwannee Organics,Yes,0.79,1678,1661
+St. Petersburg,Organic Baby Spinach,Suwannee Organics,No,3.99,493,449
+St. Petersburg,Organic Avocados,Suwannee Organics,No,1.89,668,607
+St. Petersburg,Organic Papayas,Suwannee Organics,No,3.49,115,88
+St. Petersburg,Organic Blueberries,Suwannee Organics,No,5.49,558,492
+St. Petersburg,Roma Tomatoes,Gulf Coast Produce,No,1.49,1006,958
+St. Petersburg,Sweet Corn,Gulf Coast Produce,Yes,0.65,890,861
+St. Petersburg,Green Bell Peppers,Gulf Coast Produce,No,0.99,448,414
+St. Petersburg,Cucumbers,Gulf Coast Produce,No,0.79,612,581
+St. Petersburg,Red Grapes,Gulf Coast Produce,Yes,2.99,542,494
+St. Petersburg,Vine Tomatoes,Ruskin Farms Direct,No,2.29,515,497
+St. Petersburg,Yellow Onions,Ruskin Farms Direct,No,0.89,959,900
+St. Petersburg,Russet Potatoes,Ruskin Farms Direct,Yes,0.75,1395,1355
+St. Petersburg,Romaine Hearts,Ruskin Farms Direct,No,2.49,456,423
+St. Petersburg,Navel Oranges,Fresh Ridge Citrus,Yes,1.19,676,669
+St. Petersburg,Ruby Red Grapefruit,Fresh Ridge Citrus,No,1.39,428,399
+St. Petersburg,Organic Meyer Lemons,Fresh Ridge Citrus,No,2.79,169,162
+Wesley Chapel,Organic Strawberries,Suwannee Organics,No,4.99,1209,857
+Wesley Chapel,Organic Bananas,Suwannee Organics,Yes,0.79,1920,1700
+Wesley Chapel,Organic Baby Spinach,Suwannee Organics,No,3.99,890,771
+Wesley Chapel,Organic Avocados,Suwannee Organics,No,1.89,1230,1043
+Wesley Chapel,Organic Papayas,Suwannee Organics,No,3.49,167,108
+Wesley Chapel,Organic Blueberries,Suwannee Organics,No,5.49,617,514
+Wesley Chapel,Roma Tomatoes,Gulf Coast Produce,No,1.49,930,896
+Wesley Chapel,Sweet Corn,Gulf Coast Produce,Yes,0.65,1011,958
+Wesley Chapel,Green Bell Peppers,Gulf Coast Produce,No,0.99,628,616
+Wesley Chapel,Cucumbers,Gulf Coast Produce,No,0.79,900,865
+Wesley Chapel,Red Grapes,Gulf Coast Produce,Yes,2.99,549,520
+Wesley Chapel,Vine Tomatoes,Ruskin Farms Direct,No,2.29,813,766
+Wesley Chapel,Yellow Onions,Ruskin Farms Direct,No,0.89,1336,1227
+Wesley Chapel,Russet Potatoes,Ruskin Farms Direct,Yes,0.75,1276,1263
+Wesley Chapel,Romaine Hearts,Ruskin Farms Direct,No,2.49,543,531
+Wesley Chapel,Navel Oranges,Fresh Ridge Citrus,Yes,1.19,996,944
+Wesley Chapel,Ruby Red Grapefruit,Fresh Ridge Citrus,No,1.39,518,482
+Wesley Chapel,Organic Meyer Lemons,Fresh Ridge Citrus,No,2.79,244,224
+Lakeland,Organic Strawberries,Suwannee Organics,No,4.99,525,463
+Lakeland,Organic Bananas,Suwannee Organics,Yes,0.79,1670,1625
+Lakeland,Organic Baby Spinach,Suwannee Organics,No,3.99,433,392
+Lakeland,Organic Avocados,Suwannee Organics,No,1.89,769,728
+Lakeland,Roma Tomatoes,Gulf Coast Produce,No,1.49,789,744
+Lakeland,Sweet Corn,Gulf Coast Produce,Yes,0.65,559,549
+Lakeland,Green Bell Peppers,Gulf Coast Produce,No,0.99,446,438
+Lakeland,Cucumbers,Gulf Coast Produce,No,0.79,520,499
+Lakeland,Red Grapes,Gulf Coast Produce,Yes,2.99,480,450
+Lakeland,Vine Tomatoes,Ruskin Farms Direct,No,2.29,510,472
+Lakeland,Yellow Onions,Ruskin Farms Direct,No,0.89,900,843
+Lakeland,Russet Potatoes,Ruskin Farms Direct,Yes,0.75,963,942
+Lakeland,Romaine Hearts,Ruskin Farms Direct,No,2.49,413,387
+Lakeland,Navel Oranges,Fresh Ridge Citrus,Yes,1.19,604,585
+Lakeland,Ruby Red Grapefruit,Fresh Ridge Citrus,No,1.39,402,381
+Sarasota,Organic Strawberries,Suwannee Organics,No,4.99,783,700
+Sarasota,Organic Bananas,Suwannee Organics,Yes,0.79,2001,1961
+Sarasota,Organic Baby Spinach,Suwannee Organics,No,3.99,618,565
+Sarasota,Organic Avocados,Suwannee Organics,No,1.89,1149,1069
+Sarasota,Organic Papayas,Suwannee Organics,No,3.49,188,137
+Sarasota,Organic Blueberries,Suwannee Organics,No,5.49,668,614
+Sarasota,Roma Tomatoes,Gulf Coast Produce,No,1.49,1162,1076
+Sarasota,Sweet Corn,Gulf Coast Produce,Yes,0.65,1028,994
+Sarasota,Green Bell Peppers,Gulf Coast Produce,No,0.99,664,623
+Sarasota,Cucumbers,Gulf Coast Produce,No,0.79,715,689
+Sarasota,Red Grapes,Gulf Coast Produce,Yes,2.99,630,612
+Sarasota,Vine Tomatoes,Ruskin Farms Direct,No,2.29,724,657
+Sarasota,Yellow Onions,Ruskin Farms Direct,No,0.89,1160,1132
+Sarasota,Russet Potatoes,Ruskin Farms Direct,Yes,0.75,1458,1433
+Sarasota,Romaine Hearts,Ruskin Farms Direct,No,2.49,529,500
+Sarasota,Navel Oranges,Fresh Ridge Citrus,Yes,1.19,1009,989
+Sarasota,Ruby Red Grapefruit,Fresh Ridge Citrus,No,1.39,562,537
+Sarasota,Organic Meyer Lemons,Fresh Ridge Citrus,No,2.79,192,180
+Bradenton,Organic Strawberries,Suwannee Organics,No,4.99,619,548
+Bradenton,Organic Bananas,Suwannee Organics,Yes,0.79,1271,1258
+Bradenton,Organic Baby Spinach,Suwannee Organics,No,3.99,514,480
+Bradenton,Organic Avocados,Suwannee Organics,No,1.89,615,592
+Bradenton,Organic Papayas,Suwannee Organics,No,3.49,104,74
+Bradenton,Organic Blueberries,Suwannee Organics,No,5.49,418,379
+Bradenton,Roma Tomatoes,Gulf Coast Produce,No,1.49,980,948
+Bradenton,Sweet Corn,Gulf Coast Produce,Yes,0.65,675,664
+Bradenton,Green Bell Peppers,Gulf Coast Produce,No,0.99,604,572
+Bradenton,Cucumbers,Gulf Coast Produce,No,0.79,698,675
+Bradenton,Red Grapes,Gulf Coast Produce,Yes,2.99,365,353
+Bradenton,Vine Tomatoes,Ruskin Farms Direct,No,2.29,609,549
+Bradenton,Yellow Onions,Ruskin Farms Direct,No,0.89,744,708
+Bradenton,Russet Potatoes,Ruskin Farms Direct,Yes,0.75,1019,1006
+Bradenton,Romaine Hearts,Ruskin Farms Direct,No,2.49,430,405
+Bradenton,Navel Oranges,Fresh Ridge Citrus,Yes,1.19,715,690
+Bradenton,Ruby Red Grapefruit,Fresh Ridge Citrus,No,1.39,419,415
+Bradenton,Organic Meyer Lemons,Fresh Ridge Citrus,No,2.79,131,124
+Temple Terrace,Organic Strawberries,Suwannee Organics,No,4.99,461,409
+Temple Terrace,Organic Bananas,Suwannee Organics,Yes,0.79,1362,1334
+Temple Terrace,Organic Baby Spinach,Suwannee Organics,No,3.99,469,428
+Temple Terrace,Organic Avocados,Suwannee Organics,No,1.89,750,663
+Temple Terrace,Roma Tomatoes,Gulf Coast Produce,No,1.49,732,677
+Temple Terrace,Sweet Corn,Gulf Coast Produce,Yes,0.65,540,534
+Temple Terrace,Green Bell Peppers,Gulf Coast Produce,No,0.99,452,413
+Temple Terrace,Cucumbers,Gulf Coast Produce,No,0.79,421,401
+Temple Terrace,Red Grapes,Gulf Coast Produce,Yes,2.99,401,390
+Temple Terrace,Vine Tomatoes,Ruskin Farms Direct,No,2.29,462,430
+Temple Terrace,Yellow Onions,Ruskin Farms Direct,No,0.89,717,702
+Temple Terrace,Russet Potatoes,Ruskin Farms Direct,Yes,0.75,910,857
+Temple Terrace,Romaine Hearts,Ruskin Farms Direct,No,2.49,365,338
+Temple Terrace,Navel Oranges,Fresh Ridge Citrus,Yes,1.19,565,541
+Temple Terrace,Ruby Red Grapefruit,Fresh Ridge Citrus,No,1.39,297,285
+Plant City,Organic Strawberries,Suwannee Organics,No,4.99,501,449
+Plant City,Organic Bananas,Suwannee Organics,Yes,0.79,1037,1025
+Plant City,Organic Baby Spinach,Suwannee Organics,No,3.99,332,299
+Plant City,Organic Avocados,Suwannee Organics,No,1.89,554,530
+Plant City,Roma Tomatoes,Gulf Coast Produce,No,1.49,539,513
+Plant City,Sweet Corn,Gulf Coast Produce,Yes,0.65,609,586
+Plant City,Green Bell Peppers,Gulf Coast Produce,No,0.99,371,357
+Plant City,Cucumbers,Gulf Coast Produce,No,0.79,475,438
+Plant City,Red Grapes,Gulf Coast Produce,Yes,2.99,361,336
+Plant City,Vine Tomatoes,Ruskin Farms Direct,No,2.29,380,336
+Plant City,Yellow Onions,Ruskin Farms Direct,No,0.89,530,509
+Plant City,Russet Potatoes,Ruskin Farms Direct,Yes,0.75,794,782
+Plant City,Romaine Hearts,Ruskin Farms Direct,No,2.49,333,315
+Plant City,Navel Oranges,Fresh Ridge Citrus,Yes,1.19,619,604
+Plant City,Ruby Red Grapefruit,Fresh Ridge Citrus,No,1.39,243,230
+Riverview,Organic Strawberries,Suwannee Organics,No,4.99,801,658
+Riverview,Organic Bananas,Suwannee Organics,Yes,0.79,1824,1730
+Riverview,Organic Baby Spinach,Suwannee Organics,No,3.99,637,597
+Riverview,Organic Avocados,Suwannee Organics,No,1.89,870,785
+Riverview,Organic Papayas,Suwannee Organics,No,3.49,128,94
+Riverview,Organic Blueberries,Suwannee Organics,No,5.49,412,373
+Riverview,Roma Tomatoes,Gulf Coast Produce,No,1.49,1004,951
+Riverview,Sweet Corn,Gulf Coast Produce,Yes,0.65,822,809
+Riverview,Green Bell Peppers,Gulf Coast Produce,No,0.99,699,663
+Riverview,Cucumbers,Gulf Coast Produce,No,0.79,562,517
+Riverview,Red Grapes,Gulf Coast Produce,Yes,2.99,511,465
+Riverview,Vine Tomatoes,Ruskin Farms Direct,No,2.29,654,606
+Riverview,Yellow Onions,Ruskin Farms Direct,No,0.89,1113,1082
+Riverview,Russet Potatoes,Ruskin Farms Direct,Yes,0.75,1191,1145
+Riverview,Romaine Hearts,Ruskin Farms Direct,No,2.49,465,434
+Riverview,Navel Oranges,Fresh Ridge Citrus,Yes,1.19,731,724
+Riverview,Ruby Red Grapefruit,Fresh Ridge Citrus,No,1.39,586,537
+Riverview,Organic Meyer Lemons,Fresh Ridge Citrus,No,2.79,205,190
+Palm Harbor,Organic Strawberries,Suwannee Organics,No,4.99,745,673
+Palm Harbor,Organic Bananas,Suwannee Organics,Yes,0.79,1431,1395
+Palm Harbor,Organic Baby Spinach,Suwannee Organics,No,3.99,433,391
+Palm Harbor,Organic Avocados,Suwannee Organics,No,1.89,747,698
+Palm Harbor,Organic Papayas,Suwannee Organics,No,3.49,137,99
+Palm Harbor,Organic Blueberries,Suwannee Organics,No,5.49,568,496
+Palm Harbor,Roma Tomatoes,Gulf Coast Produce,No,1.49,912,825
+Palm Harbor,Sweet Corn,Gulf Coast Produce,Yes,0.65,535,515
+Palm Harbor,Green Bell Peppers,Gulf Coast Produce,No,0.99,613,567
+Palm Harbor,Cucumbers,Gulf Coast Produce,No,0.79,683,654
+Palm Harbor,Red Grapes,Gulf Coast Produce,Yes,2.99,444,428
+Palm Harbor,Vine Tomatoes,Ruskin Farms Direct,No,2.29,487,467
+Palm Harbor,Yellow Onions,Ruskin Farms Direct,No,0.89,980,970
+Palm Harbor,Russet Potatoes,Ruskin Farms Direct,Yes,0.75,1058,1047
+Palm Harbor,Romaine Hearts,Ruskin Farms Direct,No,2.49,439,396
+Palm Harbor,Navel Oranges,Fresh Ridge Citrus,Yes,1.19,823,810
+Palm Harbor,Ruby Red Grapefruit,Fresh Ridge Citrus,No,1.39,379,348
+Palm Harbor,Organic Meyer Lemons,Fresh Ridge Citrus,No,2.79,199,181

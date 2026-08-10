@@ -34,6 +34,27 @@ data/
 
 Some weeks read files from an earlier week's folder (e.g., Week 6 wrangling reuses Week 5's GreenLeaf tables alongside its own messy extracts). Files are never moved or renamed once the semester starts — notebooks depend on stable URLs.
 
+## Fall 2026 additions
+
+Generated for the Fall course (all seeded/deterministic; regenerate with
+`uv run scripts/build_class_data.py` in the course repo). Files marked *(case)* belong to a
+weekly business-case tutorial; the full data dictionary for each is in that week's
+`WeekNN-business-case.md` brief.
+
+| Week | Files | What they are |
+|---|---|---|
+| week05 | `produce_september.csv` *(case)* | GreenLeaf produce scorecard — store×product September extract |
+| week06 | `messy_transactions.csv`, `messy_customers.csv`, `messy_products.csv` | Corrupted twins of the week05 GreenLeaf tables (lecture + assignments) |
+| week06 | `q3_transactions_export.csv`, `q3_member_roster.csv`, `q3_store_master.csv` *(case)* | POS-migration aftermath — all-three-tables-dirty cleanup case |
+| week07 | `palmetto_monthly_usage.csv`, `palmetto_monthly_weather.csv` *(case)* | Palmetto Power energy-dashboard case (merge on `month`) |
+| week09 | `harborview_checkout_sessions.csv`, `harborview_guest_satisfaction.csv` *(case)* | HarborView Hotels A/B test + satisfaction t-tests |
+| week10 | `citrus_routes.csv` *(case)* | Citrus Logistics delivery cost vs distance (180 runs) |
+| week11 | `properties_v2.csv`, `acquisition_targets_v2.csv`, `salary_data_v2.csv` | Categorical-enriched v2 sets for dummy variables (lecture + assignments) |
+| week11 | `bayview_homes.csv` *(case)* | BayView Realty home-price model (240 homes, neighborhoods) |
+| week12 | `gator_auto_loans.csv`, `gator_monday_queue.csv` *(case)* | Gator Financial CU default scoring + Monday application queue |
+| week13 | `transactions_fraud.csv` | Card-transaction fraud set for the imbalance lecture (4.2% fraud) |
+| week13 | `stormshield_claims.csv` *(case)* | StormShield Insurance claims-fraud triage (4.5% fraud) |
+
 ## Provenance
 
 - Migrated from the Summer C 2026 data repo (`4641sum26-class`) with Fall week renumbering.

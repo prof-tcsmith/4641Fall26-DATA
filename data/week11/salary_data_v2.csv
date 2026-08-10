@@ -1,0 +1,151 @@
+analyst_id,experience_years,certifications,education_level,department,annual_salary
+1,18.2,4,3,Field Audit,175156
+2,8.0,1,3,Consulting,126069
+3,10.5,2,2,Consulting,130106
+4,18.6,1,2,Data Services,160149
+5,14.3,3,3,Field Audit,149726
+6,1.9,4,2,Data Services,116338
+7,5.1,2,2,Operations,92133
+8,18.3,2,3,Field Audit,143913
+9,8.3,1,3,Consulting,116897
+10,6.6,3,2,Consulting,126922
+11,17.6,3,2,Data Services,154481
+12,16.4,1,2,Operations,120118
+13,2.8,4,3,Data Services,123954
+14,12.4,3,2,Field Audit,139827
+15,14.5,0,2,Field Audit,121555
+16,14.6,0,2,Data Services,125483
+17,9.3,2,1,Operations,99273
+18,13.8,3,2,Field Audit,122007
+19,13.7,2,2,Operations,126612
+20,8.4,3,2,Consulting,121038
+21,16.2,1,1,Field Audit,106331
+22,0.5,3,3,Consulting,105372
+23,1.1,4,3,Field Audit,103881
+24,14.0,1,2,Data Services,138209
+25,19.0,1,3,Field Audit,168834
+26,0.5,3,3,Operations,102631
+27,10.7,2,3,Field Audit,139455
+28,5.8,3,1,Data Services,103730
+29,6.7,3,2,Consulting,115044
+30,9.0,3,2,Operations,122857
+31,8.7,1,3,Operations,125946
+32,14.2,1,3,Operations,143654
+33,5.4,2,2,Operations,117262
+34,9.6,2,2,Field Audit,97248
+35,10.9,3,2,Field Audit,133714
+36,18.4,1,3,Operations,143647
+37,19.9,1,3,Field Audit,156013
+38,11.7,4,1,Field Audit,125895
+39,9.3,3,3,Field Audit,132882
+40,14.0,1,3,Consulting,156430
+41,6.0,3,2,Field Audit,97490
+42,17.2,2,2,Field Audit,153843
+43,17.1,3,2,Field Audit,158321
+44,15.7,0,2,Consulting,130988
+45,4.4,3,2,Data Services,117201
+46,17.4,0,2,Field Audit,138739
+47,15.6,1,2,Operations,134001
+48,11.9,3,3,Field Audit,135931
+49,16.0,0,2,Consulting,153683
+50,13.2,3,3,Consulting,134089
+51,4.4,4,3,Operations,114050
+52,10.2,1,2,Operations,105431
+53,16.5,3,1,Data Services,142952
+54,2.0,3,1,Data Services,84512
+55,4.1,3,2,Consulting,113225
+56,4.6,0,2,Operations,81195
+57,0.3,3,2,Field Audit,90297
+58,11.4,2,1,Data Services,110160
+59,4.9,3,2,Field Audit,100693
+60,15.8,1,2,Field Audit,142615
+61,6.6,4,2,Consulting,108609
+62,4.5,3,2,Operations,101969
+63,1.7,0,3,Field Audit,91479
+64,2.1,3,3,Operations,111914
+65,2.9,3,2,Consulting,108056
+66,11.8,1,1,Consulting,113071
+67,5.2,2,2,Field Audit,93247
+68,14.7,1,3,Operations,122218
+69,7.0,2,1,Operations,84474
+70,1.5,0,3,Operations,85049
+71,12.1,0,3,Operations,120884
+72,17.2,0,2,Consulting,135055
+73,8.0,2,1,Consulting,96367
+74,4.8,4,2,Operations,105653
+75,14.7,2,2,Data Services,143440
+76,17.8,3,2,Consulting,161475
+77,6.4,2,1,Operations,92527
+78,4.7,2,2,Data Services,126443
+79,14.6,1,2,Consulting,139836
+80,15.0,3,2,Field Audit,153343
+81,8.3,2,2,Operations,106760
+82,12.6,3,2,Field Audit,121403
+83,7.7,1,2,Operations,92432
+84,19.1,2,2,Operations,144517
+85,12.3,0,2,Field Audit,115187
+86,19.2,4,3,Operations,167073
+87,4.7,3,2,Operations,122487
+88,5.6,1,2,Field Audit,108357
+89,15.0,1,3,Consulting,144103
+90,7.7,1,2,Field Audit,84901
+91,18.6,1,1,Operations,114777
+92,11.6,1,2,Consulting,137287
+93,15.0,2,3,Consulting,158685
+94,9.3,1,3,Field Audit,134629
+95,8.6,2,3,Data Services,136565
+96,0.8,4,2,Consulting,95859
+97,13.4,1,2,Field Audit,119018
+98,4.3,1,2,Operations,83337
+99,5.2,1,2,Consulting,87829
+100,10.0,2,2,Field Audit,117356
+101,10.9,2,2,Field Audit,120596
+102,3.8,2,2,Data Services,107866
+103,3.5,3,2,Consulting,95894
+104,8.7,1,2,Field Audit,97280
+105,1.8,2,2,Field Audit,87265
+106,12.6,0,3,Field Audit,125826
+107,3.6,1,1,Consulting,75195
+108,12.5,2,2,Field Audit,119846
+109,15.3,1,3,Data Services,142870
+110,15.6,0,2,Data Services,131344
+111,18.1,1,2,Field Audit,135412
+112,8.8,1,2,Operations,99356
+113,16.8,1,1,Data Services,133185
+114,8.7,1,2,Consulting,110158
+115,17.1,2,2,Data Services,147904
+116,12.5,2,1,Field Audit,101916
+117,17.8,2,3,Consulting,157003
+118,9.1,0,1,Field Audit,80698
+119,12.5,1,2,Field Audit,133260
+120,4.0,2,3,Field Audit,117986
+121,12.2,3,2,Operations,121296
+122,0.2,4,2,Field Audit,88723
+123,16.0,2,3,Data Services,160940
+124,18.6,4,2,Operations,146866
+125,9.6,1,2,Operations,107478
+126,4.8,3,1,Data Services,107291
+127,2.6,0,2,Operations,62037
+128,3.4,3,3,Consulting,114079
+129,12.6,0,3,Operations,126438
+130,2.0,4,3,Field Audit,112439
+131,16.6,2,1,Consulting,132473
+132,12.1,2,2,Data Services,128731
+133,19.1,3,2,Data Services,153958
+134,5.9,2,3,Consulting,121184
+135,17.1,3,1,Data Services,129257
+136,18.6,2,2,Operations,154166
+137,3.7,1,2,Data Services,104402
+138,18.0,1,2,Data Services,154359
+139,7.2,1,2,Consulting,90726
+140,2.2,3,1,Operations,68564
+141,4.4,2,1,Operations,93055
+142,10.0,3,2,Field Audit,120425
+143,19.7,3,2,Field Audit,157080
+144,5.0,3,3,Operations,122432
+145,12.1,1,2,Operations,115672
+146,13.8,1,2,Consulting,134925
+147,4.0,3,2,Data Services,105713
+148,7.0,4,2,Consulting,132434
+149,10.9,1,1,Consulting,102627
+150,1.6,0,3,Consulting,96758

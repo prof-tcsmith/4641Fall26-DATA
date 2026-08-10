@@ -1,0 +1,508 @@
+MEMBER_ID,MEMBER_NAME,TIER,HOME_STORE,ENROLL_DT
+1001,Felix Wilson,Bronze,5,01/01/2023
+1002,Rosa Moore,Bronze,5,01/01/2023
+1003,Zoe Hall,BRONZE,2,01/02/2023
+1004,Ava Delgado, gold,6,01/02/2023
+1005,Grace Torres,Bronze,8,01/03/2023
+1006,Lucas King,Bronze,4,01/03/2023
+1007,Keisha Davis,Silver,3,01/04/2023
+1008,Nina Reyes,SILVER,4,01/04/2023
+1009,Noah Moore,Gold,9,01/05/2023
+1010,Mia Brown,Bronze  ,4,01/05/2023
+1011,Sean Lee,Bronze,4,01/06/2023
+1012,Priya Okafor, bronze,4,01/06/2023
+1013,Victor Smith,SILVER,6,01/07/2023
+1014,Marcus Hernandez,Platinum,3,01/07/2023
+1015,Grace Anderson,Bronze  ,1,01/08/2023
+1016,Sofia Lopez,Bronze,4,01/08/2023
+1017,Ethan White,Bronze,4,01/09/2023
+1018,Elena Johnson,Bronze,12,01/09/2023
+1019,Noah Rodriguez,Gold,12,01/10/2023
+1020,Nina Okafor, bronze,6,01/10/2023
+1021,Ava Brown,Silver,3,01/11/2023
+1022,Mason Bennett,Gold,1,01/11/2023
+1023,James Patel,Silver,5,01/12/2023
+1024,Ethan Lopez,Silver,4,01/12/2023
+1025,Amara Reyes,Gold,11,01/13/2023
+1026,Keisha Jackson,Bronze,6,01/13/2023
+1027,Victor Garcia,Bronze,2,01/14/2023
+1028,Victor Scott,silver,5,01/14/2023
+1029,Nina Smith,Silver,4,01/15/2023
+1030,Camila Delgado,Gold,10,01/15/2023
+1031,Lily Garcia,BRONZE,10,01/16/2023
+1032,Lucas Wilson,Gold,1,01/16/2023
+1033,Priya Walker,Silver,8,01/17/2023
+1034,Victor King,silver,8,01/17/2023
+1035,Diego Hall, silver,8,01/18/2023
+1036,Sofia Wright,bronze,8,01/18/2023
+1037,Lily Reyes,Bronze,8,01/19/2023
+1038,Tyler Bennett,Bronze,2,01/19/2023
+1039,Sean Garcia,Silver,1,01/20/2023
+1040,Grace Walker,Gold,1,01/20/2023
+1041,Dana White,Bronze,10,01/21/2023
+1042,Andre Young,Silver,12,01/21/2023
+1043,Isabella White,Silver,4,01/22/2023
+1044,Keisha Delgado,Bronze,9,01/22/2023
+1045,Grace Delgado,Bronze,4,01/23/2023
+1046,Priya Torres,Bronze,3,01/23/2023
+1047,Diego Clark,BRONZE,1,01/24/2023
+1048,Grace Okafor,bronze,7,01/24/2023
+1049,Diego King,Bronze,5,01/25/2023
+1050,Nina Davis,gold,7,01/25/2023
+1051,Mason Bennett,Bronze  ,8,01/26/2023
+1052,Sean Reyes,Bronze,11,01/26/2023
+1053,Keisha Young,Gold,9,01/27/2023
+1054,Noah Martinez,Bronze,11,01/27/2023
+1055,Victor Wilson,bronze,9,01/28/2023
+1056,Camila Nguyen,Bronze  ,8,01/28/2023
+1057,Keisha Wilson,Silver,9,01/29/2023
+1058,Hector King,Gold,5,01/29/2023
+1059,Mason Wright,Gold  ,3,01/30/2023
+1060,Hector Hall,Platinum,8,01/30/2023
+1061,Noah Rodriguez,Silver,4,01/31/2023
+1062,Sofia Walker,Bronze,10,01/31/2023
+1063,Noah Torres,Silver,6,02/01/2023
+1064,Priya Delgado,Silver,10,02/01/2023
+1065,Nina Delgado,silver,6,02/02/2023
+1066,Andre Thomas,Bronze  ,7,02/02/2023
+1067,Sean Wright,silver,10,02/03/2023
+1068,Felix Delgado,Gold,2,02/03/2023
+1069,Diego Hernandez,Silver,2,02/04/2023
+1070,James Wright,SILVER,10,02/04/2023
+1071,Lucas Lopez,Silver,11,02/05/2023
+1072,Mason Torres,Silver,2,02/05/2023
+1073,Keisha Torres,Silver  ,12,02/06/2023
+1074,Sofia Walker,Bronze,8,02/06/2023
+1075,Lily Hernandez,Silver,11,02/07/2023
+1076,Noah Young,Bronze,10,02/07/2023
+1077,Felix Smith,Bronze,6,02/08/2023
+1077,Felix Smith,Bronze,6,02/08/2023
+1078,Ava Wright,Bronze,12,02/08/2023
+1079,Andre Reyes,Silver,7,02/09/2023
+1080,Dana Wright,Silver,1,02/09/2023
+1081,Marcus Wilson, bronze,12,02/10/2023
+1082,Isabella Smith,Bronze,8,02/10/2023
+1083,Victor Scott,Bronze,6,02/11/2023
+1084,Hector Smith,Silver,3,02/11/2023
+1085,Camila Brown,Silver  ,9,02/12/2023
+1086,Mason Lopez,Platinum,2,02/12/2023
+1087,Dana Lopez,Gold,2,02/13/2023
+1088,Hector Bennett,Silver  ,4,02/13/2023
+1089,Zoe Delgado, bronze,9,02/14/2023
+1090,Dana Torres,Silver,12,02/14/2023
+1091,Felix Scott,Bronze,1,02/15/2023
+1092,Zoe Rodriguez,Bronze,1,02/15/2023
+1093,Felix Rodriguez,Silver,8,02/16/2023
+1094,Mason Johnson,BRONZE,1,02/16/2023
+1095,Elena Scott,Gold,11,02/17/2023
+1096,Tyler Delgado, silver,9,02/17/2023
+1097,Lily Scott,Silver  ,11,02/18/2023
+1098,Omar White, gold,4,02/18/2023
+1099,Camila Walker,Silver,6,02/19/2023
+1100,Keisha Johnson,SILVER,7,02/19/2023
+1101,Omar Wilson,silver,12,02/20/2023
+1102,Mia Patel,Bronze,7,02/20/2023
+1103,Sean Johnson, bronze,4,02/21/2023
+1104,Diego Johnson,Silver,8,02/21/2023
+1105,Lily King,Bronze,12,02/22/2023
+1106,Mason Young,Silver,1,02/22/2023
+1107,Dana Young,Silver  ,9,02/23/2023
+1108,Lily Jackson,Silver,7,02/23/2023
+1109,Priya Martinez,bronze,11,02/24/2023
+1110,Amara Reyes,Bronze,7,02/24/2023
+1111,Andre Brown,Gold,4,02/25/2023
+1112,Zoe Walker,Bronze,9,02/25/2023
+1113,Liam Wilson,Bronze  ,11,02/26/2023
+1114,Elena Torres,Bronze,10,02/26/2023
+1115,Nina Martinez,Bronze,11,02/27/2023
+1116,Mason Hernandez,BRONZE,9,02/27/2023
+1117,Mia White,Bronze  ,6,02/28/2023
+1118,Grace Brown,GOLD,6,02/28/2023
+1119,Noah Davis,Platinum,2,03/01/2023
+1120,Liam Torres,Bronze,11,03/01/2023
+1121,Lily Young,Bronze,3,03/02/2023
+1122,Camila Smith,Bronze,10,03/02/2023
+1123,Liam Lee,Bronze,3,03/03/2023
+1124,Sean Davis,Bronze,7,03/03/2023
+1125,James Wright,bronze,3,03/04/2023
+1126,Victor Lee,Silver,9,03/04/2023
+1127,Sofia Reyes, bronze,7,03/05/2023
+1128,Omar Lopez, bronze,1,03/05/2023
+1129,Amara Hall,Silver,10,03/06/2023
+1130,Liam Rodriguez, gold,4,03/06/2023
+1131,Marcus Nguyen,bronze,2,03/07/2023
+1132,Grace Thomas,Silver,6,03/07/2023
+1133,Victor Anderson,Silver,11,03/08/2023
+1134,Mia Hall,Silver,10,03/08/2023
+1135,Zoe Patel,Gold,3,03/09/2023
+1136,Nina Reyes,SILVER,3,03/09/2023
+1137,Nina Lopez,Silver,4,03/10/2023
+1138,Mia Wright,Bronze,10,03/10/2023
+1139,Sean Smith,bronze,10,03/11/2023
+1140,Ava Bennett,Gold,7,03/11/2023
+1141,Liam Smith,Gold,8,03/12/2023
+1142,Andre Johnson, silver,8,03/12/2023
+1143,Andre Moore,BRONZE,1,03/13/2023
+1144,Dana Wilson,Bronze,5,03/13/2023
+1145,Omar Wright,Silver,7,03/14/2023
+1146,Mason Moore,Bronze,3,03/14/2023
+1147,Felix Patel, silver,7,03/15/2023
+1148,Dana Young,Bronze  ,12,03/15/2023
+1149,Omar Lee,Bronze,9,03/16/2023
+1150,Tyler Brown,Bronze,5,03/16/2023
+1151,Omar Patel,Silver,8,03/17/2023
+1152,Mason Jackson,SILVER,5,03/17/2023
+1153,Lily Wilson,BRONZE,5,03/18/2023
+1154,Sofia Reyes,Bronze,9,03/18/2023
+1155,James Scott,Bronze,4,03/19/2023
+1156,Omar Smith,BRONZE,5,03/19/2023
+1157,Rosa Jackson,silver,3,03/20/2023
+1158,Felix Okafor,Silver,1,03/20/2023
+1159,Ethan Brown,Silver,12,03/21/2023
+1160,Priya Brown,Silver,7,03/21/2023
+1161,Liam Reyes,Bronze,8,03/22/2023
+1162,Nina Brown,Bronze,4,03/22/2023
+1163,Amara Torres,BRONZE,7,03/23/2023
+1164,Rosa Okafor,BRONZE,12,03/23/2023
+1165,Lucas Patel,Silver,4,03/24/2023
+1166,Victor Bennett,Silver,1,03/24/2023
+1167,Priya Scott,Bronze  ,1,03/25/2023
+1168,Keisha Reyes,Platinum,11,03/25/2023
+1169,Rosa Bennett,SILVER,10,03/26/2023
+1170,Lucas Davis,Platinum,7,03/26/2023
+1171,Liam Wilson,Bronze,9,03/27/2023
+1172,Amara Smith,BRONZE,4,03/27/2023
+1173,Diego Bennett,Silver  ,11,03/28/2023
+1174,Ethan Moore,Silver,2,03/28/2023
+1175,Liam Scott,silver,11,03/29/2023
+1176,Priya Rodriguez,Bronze,2,03/29/2023
+1177,Felix Anderson,Bronze,12,03/30/2023
+1178,Mia Moore,Bronze,4,03/30/2023
+1179,Liam White,SILVER,5,03/31/2023
+1180,Felix Moore,Bronze,3,03/31/2023
+1181,Camila Clark,Platinum,1,04/01/2023
+1182,Marcus Wilson,Bronze,5,04/01/2023
+1183,Mia Garcia,Silver  ,7,04/02/2023
+1184,Amara Bennett,SILVER,3,04/02/2023
+1185,Grace Reyes,Silver  ,9,04/03/2023
+1186,Priya Smith,Platinum,1,04/03/2023
+1187,Diego Anderson,Silver,7,04/04/2023
+1188,Liam Reyes,Silver,6,04/04/2023
+1189,Noah Hernandez,Silver  ,11,04/05/2023
+1190,Sofia Wright,bronze,1,04/05/2023
+1191,James King,bronze,8,04/06/2023
+1192,Keisha Davis,Bronze,12,04/06/2023
+1193,Keisha Torres,BRONZE,9,04/07/2023
+1194,Zoe Hall,Silver,12,04/07/2023
+1195,Andre Anderson, bronze,5,04/08/2023
+1196,Grace Brown,bronze,7,04/08/2023
+1197,Keisha Smith, bronze,12,04/09/2023
+1198,Mia Jackson,Gold,11,04/09/2023
+1199,Nina Lopez,Gold,10,04/10/2023
+1200,Dana Davis,Bronze,8,04/10/2023
+1201,Mia Okafor,Bronze,1,04/11/2023
+1202,Ava King,Silver,6,04/11/2023
+1203,Grace Moore,Bronze,11,04/12/2023
+1204,Hector Walker,Bronze  ,9,04/12/2023
+1205,Rosa Smith,bronze,5,04/13/2023
+1206,Noah Nguyen,Bronze,6,04/13/2023
+1207,Diego Bennett,Silver,11,04/14/2023
+1208,Mason White,Bronze,3,04/14/2023
+1209,Lucas Clark,Silver,6,04/15/2023
+1210,Mia Wilson,Gold  ,6,04/15/2023
+1211,Amara Jackson, bronze,4,04/16/2023
+1212,Marcus Brown,Bronze,7,04/16/2023
+1213,Priya King,Silver  ,8,04/17/2023
+1214,Felix Wright,BRONZE,1,04/17/2023
+1215,Lily Martinez,Silver,10,04/18/2023
+1216,Isabella White,Bronze,10,04/18/2023
+1217,Hector Martinez,silver,8,04/19/2023
+1218,Camila Martinez,Silver,3,04/19/2023
+1219,Sofia Walker,Bronze,3,04/20/2023
+1220,Victor Moore,Silver  ,5,04/20/2023
+1221,Rosa Clark,Bronze,12,04/21/2023
+1222,Priya Scott,Bronze  ,8,04/21/2023
+1223,Priya Reyes,bronze,6,04/22/2023
+1224,Marcus Scott,Bronze,11,04/22/2023
+1225,Isabella Reyes,Bronze  ,8,04/23/2023
+1226,Mia Moore,Bronze  ,10,04/23/2023
+1227,Liam Young,Bronze,8,04/24/2023
+1228,Diego Walker,SILVER,1,04/24/2023
+1229,Ava Clark, bronze,1,04/25/2023
+1230,Isabella Rodriguez,SILVER,3,04/25/2023
+1231,Tyler Clark,bronze,8,04/26/2023
+1231,Tyler Clark,bronze,8,04/26/2023
+1232,Priya Patel,silver,10,04/26/2023
+1233,Lily Smith,Gold,1,04/27/2023
+1234,Rosa Lopez,Silver,9,04/27/2023
+1235,Ethan Hall, bronze,10,04/28/2023
+1236,Ethan Jackson,Platinum  ,3,04/28/2023
+1237,Rosa Torres,Bronze,9,04/29/2023
+1238,Ava Walker,Bronze,2,04/29/2023
+1239,Lily Torres,Silver,8,04/30/2023
+1240,Diego Hernandez,Silver,3,04/30/2023
+1241,Keisha Rodriguez,Bronze,9,05/01/2023
+1242,Nina Garcia,Bronze,8,05/01/2023
+1243,Noah Hernandez, bronze,12,05/02/2023
+1244,Mia Anderson,bronze,7,05/02/2023
+1245,Zoe Moore,Bronze,11,05/03/2023
+1246,Lily Wilson,GOLD,10,05/03/2023
+1247,Omar Wilson,Bronze,1,05/04/2023
+1248,Lily Brown,bronze,7,05/04/2023
+1249,Felix Martinez,bronze,7,05/05/2023
+1250,Mason Martinez,PLATINUM,2,05/05/2023
+1251,Felix Patel,gold,10,05/06/2023
+1252,Tyler Moore, bronze,5,05/06/2023
+1253,Zoe Lee, bronze,10,05/07/2023
+1254,Ava Moore,bronze,12,05/07/2023
+1255,Victor Lee,Bronze,3,05/08/2023
+1256,Isabella Hall,BRONZE,12,05/08/2023
+1257,Omar Patel,Silver,6,05/09/2023
+1258,Lucas Hall,Silver  ,10,05/09/2023
+1259,James Jackson,Platinum,11,05/10/2023
+1260,Noah King,BRONZE,5,05/10/2023
+1261,Sofia Clark,BRONZE,2,05/11/2023
+1262,Dana Okafor,Platinum,2,05/11/2023
+1263,Felix Lee,SILVER,2,05/12/2023
+1264,Camila Scott,Platinum,9,05/12/2023
+1265,Marcus Johnson,bronze,10,05/13/2023
+1266,Keisha Torres,Bronze,9,05/13/2023
+1267,Hector Rodriguez,Bronze  ,9,05/14/2023
+1268,Camila Moore,Silver,6,05/14/2023
+1269,Dana Lee,Bronze,6,05/15/2023
+1270,Marcus Young,Bronze,9,05/15/2023
+1271,Dana Okafor,Bronze,6,05/16/2023
+1272,Ethan Lee,Platinum,4,05/16/2023
+1273,James Hernandez,Silver  ,5,05/17/2023
+1274,Isabella Patel, bronze,7,05/17/2023
+1275,Marcus Reyes,Bronze,12,05/18/2023
+1276,Marcus White,Silver  ,11,05/18/2023
+1277,Amara Rodriguez,silver,9,05/19/2023
+1278,Keisha Davis,GOLD,6,05/19/2023
+1279,Marcus Jackson,Bronze,11,05/20/2023
+1280,Keisha Reyes,Bronze,5,05/20/2023
+1281,Lucas Reyes,Bronze,6,05/21/2023
+1282,Grace Wright,bronze,12,05/21/2023
+1283,Elena Johnson,Bronze  ,3,05/22/2023
+1284,James Bennett,Silver,2,05/22/2023
+1285,Noah Walker,Silver  ,9,05/23/2023
+1286,Lucas Davis,Bronze,8,05/23/2023
+1287,Nina Hernandez,GOLD,11,05/24/2023
+1288,Hector Bennett,SILVER,2,05/24/2023
+1289,Diego Brown,Bronze,11,05/25/2023
+1290,Andre Hall,Silver  ,10,05/25/2023
+1291,Ava Jackson, bronze,3,05/26/2023
+1292,Sofia Hall,Platinum  ,7,05/26/2023
+1293,Liam Delgado,Bronze,9,05/27/2023
+1294,Sofia Moore,Gold,5,05/27/2023
+1295,Elena Reyes,Bronze,12,05/28/2023
+1296,Victor Anderson,Bronze,7,05/28/2023
+1297,Sean Walker,bronze,1,05/29/2023
+1298,Omar Patel,Silver,3,05/29/2023
+1299,Zoe Torres,BRONZE,10,05/30/2023
+1300,Dana Thomas,Bronze  ,9,05/30/2023
+1301,Noah Okafor,Silver,3,05/31/2023
+1302,Nina Lopez,Silver  ,2,05/31/2023
+1303,Camila Scott,Silver,10,06/01/2023
+1304,Keisha Lee,PLATINUM,3,06/01/2023
+1305,Sean Wilson, platinum,3,06/02/2023
+1306,Zoe Young,Bronze  ,1,06/02/2023
+1307,Keisha Hernandez,Bronze,11,06/03/2023
+1308,Nina Bennett,Bronze,5,06/03/2023
+1309,Andre Johnson, gold,2,06/04/2023
+1310,Andre Smith,Gold  ,10,06/04/2023
+1311,Sofia Hernandez,Bronze,7,06/05/2023
+1312,Sofia Nguyen,BRONZE,2,06/05/2023
+1313,Omar Thomas,Bronze,1,06/06/2023
+1314,Nina Thomas,Silver,10,06/06/2023
+1315,Amara Hernandez,Bronze,9,06/07/2023
+1316,Marcus Rodriguez,Bronze,11,06/07/2023
+1317,Camila Nguyen,Silver  ,7,06/08/2023
+1318,Mason Clark,BRONZE,5,06/08/2023
+1319,Omar Reyes,Silver,6,06/09/2023
+1320,Lily Bennett,Gold,3,06/09/2023
+1321,Amara Rodriguez, gold,6,06/10/2023
+1322,Andre Reyes,Gold,1,06/10/2023
+1323,Ethan Smith,Bronze,7,06/11/2023
+1324,Nina Hall,Gold,1,06/11/2023
+1325,Mia Brown,BRONZE,8,06/12/2023
+1326,Isabella White,Bronze,7,06/12/2023
+1327,Zoe Young,Silver,8,06/13/2023
+1328,Marcus Jackson,Bronze,8,06/13/2023
+1329,Rosa Brown,Silver,2,06/14/2023
+1330,Isabella Patel,Bronze,11,06/14/2023
+1331,Priya Reyes,Bronze,4,06/15/2023
+1332,Victor Lee, gold,7,06/15/2023
+1333,Dana Moore,BRONZE,12,06/16/2023
+1334,Lucas Moore,Bronze  ,4,06/16/2023
+1335,Victor Jackson,Bronze,10,06/17/2023
+1336,Priya Lee,Silver,12,06/17/2023
+1337,Omar Delgado,BRONZE,9,06/18/2023
+1338,Lucas Davis,Silver,9,06/18/2023
+1339,Marcus Jackson,Silver,9,06/19/2023
+1340,Nina Delgado,Gold,11,06/19/2023
+1341,Zoe Smith,Bronze,3,06/20/2023
+1342,Ava Garcia,Bronze,12,06/20/2023
+1343,Mia Clark,Bronze,10,06/21/2023
+1344,Noah Torres,Gold,4,06/21/2023
+1345,Tyler Hall,Silver,6,06/22/2023
+1346,Felix Brown,Bronze  ,3,06/22/2023
+1347,Marcus Patel,Bronze  ,7,06/23/2023
+1348,Isabella Hernandez,Bronze,11,06/23/2023
+1349,Mia Thomas,Gold,1,06/24/2023
+1350,Mia Bennett,Bronze,11,06/24/2023
+1351,Ava Hernandez,bronze,4,06/25/2023
+1352,James Thomas,BRONZE,9,06/25/2023
+1353,Mason Garcia,Bronze  ,8,06/26/2023
+1354,Nina Rodriguez,Platinum,9,06/26/2023
+1355,Felix Smith,Bronze,2,06/27/2023
+1356,Tyler Delgado, gold,1,06/27/2023
+1357,Lucas Patel,Silver,5,06/28/2023
+1358,Marcus Martinez, bronze,6,06/28/2023
+1359,Mia Brown,bronze,11,06/29/2023
+1360,Rosa Wright,Platinum,6,06/29/2023
+1361,Sean Okafor,Platinum,6,06/30/2023
+1362,Marcus Brown,Gold,8,06/30/2023
+1363,Zoe Hall,Platinum,11,07/01/2023
+1364,Andre Reyes,Silver,11,07/01/2023
+1365,Omar Walker, gold,2,07/02/2023
+1366,Sofia Torres,BRONZE,10,07/02/2023
+1367,Mason King, silver,1,07/03/2023
+1368,Sofia Martinez,Bronze,9,07/03/2023
+1369,Marcus Brown,Silver,10,07/04/2023
+1370,Mason Reyes,Silver,1,07/04/2023
+1371,Elena Lopez,Platinum,8,07/05/2023
+1372,Noah Moore,Silver,11,07/05/2023
+1373,Andre Brown,silver,4,07/06/2023
+1374,Liam Jackson, silver,12,07/06/2023
+1375,Dana Anderson,Silver,2,07/07/2023
+1376,Marcus Martinez,Bronze,8,07/07/2023
+1377,Keisha Smith,Silver  ,8,07/08/2023
+1378,Sean Young,Bronze,1,07/08/2023
+1379,Andre Reyes,BRONZE,2,07/09/2023
+1380,Diego Moore,Bronze,2,07/09/2023
+1381,Liam Garcia, platinum,8,07/10/2023
+1382,Dana Johnson,Silver,6,07/10/2023
+1383,Sean White,Bronze,9,07/11/2023
+1384,Isabella Jackson,Silver,12,07/11/2023
+1385,Victor Smith,Bronze,12,07/12/2023
+1386,Marcus Wilson,SILVER,12,07/12/2023
+1387,Hector Martinez,Platinum,3,07/13/2023
+1387,Hector Martinez,Platinum,3,07/13/2023
+1388,Victor Martinez,Bronze,5,07/13/2023
+1389,Camila Okafor,Silver,3,07/14/2023
+1390,Lucas Patel,Bronze,10,07/14/2023
+1391,Isabella Clark, silver,12,07/15/2023
+1392,Dana Thomas,Bronze,7,07/15/2023
+1393,Elena Okafor,Bronze  ,4,07/16/2023
+1394,Hector Lopez,Bronze  ,11,07/16/2023
+1395,Tyler King, silver,12,07/17/2023
+1396,Sean Davis,Silver,6,07/17/2023
+1397,Noah Davis, bronze,10,07/18/2023
+1398,Amara Anderson,Bronze,6,07/18/2023
+1399,Lucas Hernandez,Silver,7,07/19/2023
+1399,Lucas Hernandez,Silver,7,07/19/2023
+1400,Priya Reyes,Bronze,11,07/19/2023
+1401,Hector Smith, bronze,12,07/20/2023
+1402,Sean Lee,bronze,2,07/20/2023
+1403,Zoe Johnson,Bronze,9,07/21/2023
+1404,Elena White,Bronze,8,07/21/2023
+1405,Ava Clark,Bronze,8,07/22/2023
+1406,Dana Wilson,Bronze,7,07/22/2023
+1407,Victor Lee,GOLD,12,07/23/2023
+1408,Amara Hall, silver,10,07/23/2023
+1409,James Clark,Silver,3,07/24/2023
+1410,Nina Scott,Bronze,5,07/24/2023
+1411,Mia Jackson,Bronze  ,5,07/25/2023
+1412,Andre Walker, silver,1,07/25/2023
+1413,Rosa Rodriguez,GOLD,8,07/26/2023
+1414,Priya Johnson,Silver  ,8,07/26/2023
+1415,Zoe Nguyen,SILVER,6,07/27/2023
+1416,Rosa Wright,Silver,6,07/27/2023
+1417,Ethan Hall,Gold  ,1,07/28/2023
+1417,Ethan Hall,Gold  ,1,07/28/2023
+1418,Elena Lee, bronze,10,07/28/2023
+1419,Nina King,Bronze,4,07/29/2023
+1420,Elena Anderson,Silver,3,07/29/2023
+1421,Hector Martinez,Bronze,11,07/30/2023
+1422,Sean Johnson,Bronze  ,2,07/30/2023
+1423,Rosa Wilson,silver,7,07/31/2023
+1424,Victor Nguyen,bronze,5,07/31/2023
+1425,Diego Martinez, silver,7,08/01/2023
+1426,Lily Walker,Gold,8,08/01/2023
+1427,Ethan Clark,Bronze,12,08/02/2023
+1428,Victor Thomas,Bronze,12,08/02/2023
+1429,Marcus Jackson, gold,11,08/03/2023
+1430,Omar Moore,Silver,9,08/03/2023
+1431,Hector Jackson,Bronze,8,08/04/2023
+1432,Ethan Garcia,Gold,8,08/04/2023
+1433,Hector Young,Bronze,12,08/05/2023
+1434,Marcus Bennett,SILVER,6,08/05/2023
+1435,Tyler Bennett,Silver,6,08/06/2023
+1436,Victor Davis,BRONZE,2,08/06/2023
+1437,Felix Martinez,Bronze,4,08/07/2023
+1438,Sean Nguyen,BRONZE,6,08/07/2023
+1439,Liam Lee,Bronze,5,08/08/2023
+1439,Liam Lee,Bronze,5,08/08/2023
+1440,Nina Nguyen,Bronze,4,08/08/2023
+1441,Sean Walker,Bronze  ,11,08/09/2023
+1442,Sofia Delgado,Silver,3,08/09/2023
+1443,Elena Anderson,Silver,7,08/10/2023
+1444,James Delgado,Silver  ,11,08/10/2023
+1445,Nina Young, bronze,8,08/11/2023
+1446,Hector Lopez,Bronze  ,12,08/11/2023
+1447,Marcus Clark,Bronze,2,08/12/2023
+1448,Mia Clark, bronze,6,08/12/2023
+1449,Diego Johnson,Bronze,11,08/13/2023
+1450,Mia Young,Silver  ,9,08/13/2023
+1451,Dana Davis,silver,4,08/14/2023
+1452,Marcus White,Bronze,4,08/14/2023
+1453,Noah King,Platinum,12,08/15/2023
+1454,Felix Davis,Gold,10,08/15/2023
+1455,Dana Patel,Bronze  ,4,08/16/2023
+1456,Zoe Moore,Gold,4,08/16/2023
+1457,Tyler Anderson,Bronze,9,08/17/2023
+1458,Ava White,Silver,2,08/17/2023
+1459,Diego Hall,gold,7,08/18/2023
+1460,James Garcia,GOLD,7,08/18/2023
+1461,Felix Wilson,Silver,2,08/19/2023
+1462,Zoe Jackson,Silver,10,08/19/2023
+1463,Amara Clark,Platinum,1,08/20/2023
+1464,Marcus Lee, bronze,2,08/20/2023
+1465,Diego King,Bronze  ,2,08/21/2023
+1466,Mason Okafor,Bronze  ,12,08/21/2023
+1467,Keisha Torres,Bronze,9,08/22/2023
+1468,Priya Johnson,Silver,8,08/22/2023
+1468,Priya Johnson,Silver,8,08/22/2023
+1469,Marcus Lopez,Silver,3,08/23/2023
+1470,Andre Hall, silver,5,08/23/2023
+1471,Sean Wilson,silver,2,08/24/2023
+1472,Andre Moore, silver,10,08/24/2023
+1473,James Reyes,Bronze,10,08/25/2023
+1474,Ava Davis,Bronze,7,08/25/2023
+1475,Mia Davis,Bronze,3,08/26/2023
+1476,Elena Nguyen,Bronze,12,08/26/2023
+1477,Liam Johnson,bronze,9,08/27/2023
+1478,Nina Lopez,Bronze,12,08/27/2023
+1479,Rosa Wilson,Bronze,11,08/28/2023
+1480,Isabella Thomas,Silver,5,08/28/2023
+1481,Ethan Clark,Bronze,2,08/29/2023
+1482,Isabella Jackson,GOLD,10,08/29/2023
+1483,Tyler Smith,Bronze,3,08/30/2023
+1484,Hector Bennett,gold,12,08/30/2023
+1485,Camila Jackson,BRONZE,4,08/31/2023
+1486,Rosa Young,Silver,4,08/31/2023
+1487,Sean Jackson, bronze,11,09/01/2023
+1488,James Rodriguez,Bronze,2,09/01/2023
+1489,Ethan Nguyen, platinum,8,09/02/2023
+1490,Rosa Moore,Bronze  ,1,09/02/2023
+1491,Omar Wright,Bronze,9,09/03/2023
+1492,Grace Torres,Bronze,3,09/03/2023
+1493,Zoe Johnson,Silver,8,09/04/2023
+1494,Elena King,Silver,3,09/04/2023
+1495,Sofia Wilson,Platinum,10,09/05/2023
+1496,Mia Patel,Gold,4,09/05/2023
+1497,Keisha Johnson,Bronze,5,09/06/2023
+1498,Hector Brown,Bronze,7,09/06/2023
+1499,Sean Wright,BRONZE,1,09/07/2023
+1500,Rosa Jackson,SILVER,10,09/07/2023

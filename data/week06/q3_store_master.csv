@@ -1,0 +1,14 @@
+store_id,store_name,region,size_sqft
+1,Downtown Tampa,tampa bay,45000
+2,Brandon,Tampa Bay,38000
+3,Clearwater, tampa bay ,42000
+4,St. Petersburg,TAMPA BAY,40000
+5,Wesley Chapel,NORTH,52000
+6,Lakeland,North,35000
+7,Sarasota,SOUTH,48000
+8,Bradenton,South,36000
+9,Temple Terrace, tampa bay ,32000
+10,Plant City, north ,28000
+11,Riverview,Tampa Bay,44000
+12,Palm Harbor, tampa bay ,39000
+7,Sarasota, south ,51500
