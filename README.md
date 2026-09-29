@@ -46,6 +46,7 @@ weekly business-case tutorial; the full data dictionary for each is in that week
 | week05 | `produce_september.csv` *(case)* | GreenLeaf produce scorecard — store×product September extract |
 | week06 | `messy_transactions.csv`, `messy_customers.csv`, `messy_products.csv` | Corrupted twins of the week05 GreenLeaf tables (lecture + assignments) |
 | week06 | `q3_transactions_export.csv`, `q3_member_roster.csv`, `q3_store_master.csv` *(case)* | POS-migration aftermath — all-three-tables-dirty cleanup case |
+| week06 | `greenleaf.db` | SQLite database for the **optional** Week 6 SQL supplement: Week 5's `stores`, `customers`, `transactions` row for row, plus the merge slide's `demo_orders` / `demo_customers`. Built by `scripts/build_week06_sqlite_db.py`; download it (e.g. `urllib.request.urlretrieve`) and open with `sqlite3.connect` |
 | week07 | `palmetto_monthly_usage.csv`, `palmetto_monthly_weather.csv` *(case)* | Palmetto Power energy-dashboard case (merge on `month`) |
 | week09 | `harborview_checkout_sessions.csv`, `harborview_guest_satisfaction.csv` *(case)* | HarborView Hotels A/B test + satisfaction t-tests |
 | week10 | `citrus_routes.csv` *(case)* | Citrus Logistics delivery cost vs distance (180 runs) |
